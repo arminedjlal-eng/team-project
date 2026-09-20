@@ -1,4 +1,5 @@
 Team Project
 Version 1.0
 Feature B implemented
+Feature C implemented (rebase practice)
 Feature D implemented (main change)
