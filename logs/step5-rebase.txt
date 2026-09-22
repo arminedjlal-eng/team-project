@@ -1,0 +1,20 @@
+commit aad381dae540723f8829a13cc94d2f0f1ed9c56d
+Author: Armin Ejlal <armin.edjlal@gmail.com>
+Date:   Sun Sep 20 17:54:36 2026 +0330
+
+    feat: add Feature C for rebase practice
+    
+    # Conflicts:
+    #       team_project.txt
+
+diff --git a/team_project.txt b/team_project.txt
+index e1aaa17..183cc70 100644
+--- a/team_project.txt
++++ b/team_project.txt
+@@ -1,4 +1,5 @@
+ Team Project
+ Version 1.0
+ Feature B implemented
++Feature C implemented (rebase practice)
+ Feature D implemented (main change)
+\ No newline at end of file
