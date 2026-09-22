@@ -17,7 +17,7 @@ This project is a hands-on exercise for resolving conflicts in GitHub using **Me
 
 | Branch | Description | Final commit |
 |---|---|---|
-| `main` | Main branch | `cefdf7c` |
+| `main` | Main branch | `1d43077` |
 | `feature-a` | Conflict resolution with **Merge** | `66d8cc6` |
 | `feature-rebase` | Conflict resolution with **Rebase** | `aad381d` |
 
