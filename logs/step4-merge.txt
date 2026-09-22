@@ -1,0 +1,18 @@
+commit 66d8cc6003bba688fc0989a0ec06a041edc9e498
+Merge: e101bf6 f28f200
+Author: Armin Ejlal <armin.edjlal@gmail.com>
+Date:   Sun Sep 20 17:32:13 2026 +0330
+
+    merge: resolve conflict between Feature A and Feature B
+
+diff --cc team_project.txt
+index 668d353,735a3e7..b6900f9
+--- a/team_project.txt
++++ b/team_project.txt
+@@@ -1,3 -1,3 +1,4 @@@
+  Team Project
+  Version 1.0
+- Feature A implemented
+ -Feature B implemented
+++Feature A implemented
+++Feature B implemented
